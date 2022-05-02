@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @murainah
-- 👀 I’m interested in Data Sciene
+- 👀 I’m interested in Data Science
 
 
 <!---
