@@ -22,7 +22,7 @@ About Me
 
 ---
 <div align="center">
-<h2>Projects</h2>
+<h2>Few Projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
