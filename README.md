@@ -32,7 +32,7 @@ About Me
   </thead>
   <tbody>
      <tr>
-      <td><a href="https://github.com/murainah/image-to-text-app"><Image To Text APP</b></a></td>
+      <td><a href="https://github.com/murainah/image-to-text-app"><b>Image To Text APP</b></a></td>
       <td><a href="https://github.com/murainah/Natural_gas"><b>Natural Gas Price Prediction</b></a></td>
     </tr>
     <tr>
