@@ -1,6 +1,7 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=40F71D&width=435&lines=Hello+%F0%9F%98%80;I'm+Abubakri+Murainah;Data+Scientist" alt="Typing SVG" /></a>
- ---
+	
+    <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=40F71D&width=435&lines=Hello+%F0%9F%98%80;I'm+Abubakri+Murainah;Data+Scientist" alt="Typing SVG" /></a></div> 
+
  
  <h1 align="center">
 About Me 
