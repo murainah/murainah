@@ -9,7 +9,7 @@ About Me
 <div align="center">   
 
 - I'm Abubakri Murainah, a passionate **Data Scientist**
-- I'm interested in NLP, Computer Vision, and AI
+- I'm interested in NLP and AI
 - I'm open to roles and collaborations.
 
 
